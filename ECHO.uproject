@@ -1,0 +1,43 @@
+﻿{
+    "FileVersion":  3,
+    "EngineAssociation":  "5.8",
+    "Category":  "",
+    "Description":  "ECHO - cinematic third-person action game (Prologue look-dev: The Unveiling)",
+    "Plugins":  [
+                    {
+                        "Name":  "PythonScriptPlugin",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "EditorScriptingUtilities",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "SequencerScripting",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "MovieRenderPipeline",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "Niagara",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "ChaosVehiclesPlugin",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "EnhancedInput",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "ModelingToolsEditorMode",
+                        "Enabled":  true,
+                        "TargetAllowList":  [
+                                                "Editor"
+                                            ]
+                    }
+                ]
+}
